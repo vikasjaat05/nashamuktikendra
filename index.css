@@ -1,0 +1,80 @@
+.button{
+  
+    height: 40px;
+    background-color: rgb(215, 151, 72);
+    border: 1px white;
+    color: white;
+    border-radius: 10px;
+    margin-top: 1px;
+
+ 
+  } 
+
+  .button:hover {
+    background-color: rgb(42, 42, 238);
+    color: white;
+    cursor: pointer;
+    border: 1px solid rgb(42, 42, 238);
+    transition: 0.3s;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  }
+
+
+  .single-wcu-wrap{
+    background-color: #007bff;
+    width: 260px;
+    height: 130px;
+    border-radius: 10px;
+    margin: 3px;
+    padding: 15px;
+  }
+  .single-wcu-wrap:hover{
+    background-color: #ecc03e ;
+    transition: 0.3s;
+  }
+  .single-wcu-wrap1{
+    background-color: aliceblue;
+    width: 260px;
+    height: 130px;
+    border-radius: 10px;
+    margin: 3px;
+    padding: 15px;
+
+  }
+  .single-wcu-wrap1:hover{
+    background-color: #ecc03e ;
+    transition: 0.3s;
+  }
+
+  .bg-footer {
+    background-color: #22252b;
+    padding: 50px 0 30px;
+}
+.footer-heading {
+    letter-spacing: 2px;
+}
+
+.footer-link a {
+    color: #acacac;
+    line-height: 40px;
+    font-size: 14px;
+    transition: all 0.5s;
+}
+
+.footer-link a:hover {
+    color: #37EBAA;
+}
+
+.contact-info {
+    color: #acacac;
+    font-size: 14px;
+}
+.copy{
+    background-color: #1b1b1b;
+    position: static;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+
+}
